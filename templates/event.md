@@ -37,7 +37,7 @@ On this activity there will be a description of what's about and some [Important
 * Raspberry Pi
 * Monitors
 
-### Inspiration
+## Inspiration
 
 #### Brushbots
 [Site](http://www.makershed.com/BrushBots_p/msbb.htm)
