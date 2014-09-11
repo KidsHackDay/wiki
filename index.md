@@ -2,7 +2,7 @@
 
 ## Events
 
-#### Ocasional
+#### Occasional
 * [Summer Camp 2014](/events/summer-camp-2014.md)
 * [Falls Camp 2014](/events/falls-camp-camp.md)
 
