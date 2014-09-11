@@ -1,1 +1,0 @@
-# Kids Hack Day Summer Camp
