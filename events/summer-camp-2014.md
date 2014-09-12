@@ -3,24 +3,20 @@
 ## Date and local
 The Kids Hack Day Summer Camp happened at Makers Park (Gamla Stan) during the days XX/XX/XXXX to XX/XX/XXXX and XX/XX/XXXX to XX/XX/XXXX. All the days from XX:XX to XX:XX.
 
-[gimmick:googlemaps(zoom: 15)](Makers Park, Gamls Stan, Stockholm)
-
 ## Activities
 
 ### Primary Activities
 
 * #### Build robots
 Servo motors, LEDs, piesobuzzers, Red Boards, jumper wires.
-
 Cool single servo robot
 http://hackaday.com/2009/10/30/single-servo-robot/
-
 2 servo insect like 
 http://www.instructables.com/id/simpleWalker-4-legged-2-servo-walking-robot/?ALLSTEPS
 http://www.instructables.com/id/A-Servo-based-4-legged-Walker/?ALLSTEPS
 
 * #### Program robots
-using Paulo's Quirkbot API.
+Using Paulo's Quirkbot API.
 
 * #### Minecraft programming
 
@@ -50,7 +46,7 @@ using Paulo's Quirkbot API.
 * Toothbrushes (IKEA)
 * Tools (Scissors, screwdrivers)
 
-## KHD Robot kit
+### KHD Robot kit
 
 1 x 4 -12 Megaohm resistor, 
 1 x 200ohm resistor for LED (or something similar)
@@ -80,3 +76,13 @@ using Paulo's Quirkbot API.
 
 #### Monitor hack
 [](https://www.youtube.com/watch?v=zL_HAmWQTgA)
+
+## Documentation
+
+### Robots created
+
+### Soldering station
+
+### Artwork
+
+### Minecraft 3D Prints
