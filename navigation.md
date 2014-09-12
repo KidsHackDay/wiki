@@ -6,10 +6,12 @@
 * [Summer Camp 2014](events/summer-camp-2014.md)
 * [Falls Camp 2014](events/falls-camp-2014.md)
 
-[Meetings](/#!meetings)
-[Programs](/#!programs)
-[Templates](/#!templates)
+[Programs](/#!programs)()
 
+* [Robotics](programs/robotics.md)
+* [Wearables](programs/wearables.md)
+* [Digital Fabrication](programs/digital-fabrication.md)
+* [Game Development](programs/game-development.md)
 
 [gimmick:theme (inverse: false)](united)
 
