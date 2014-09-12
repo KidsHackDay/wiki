@@ -1,7 +1,11 @@
 # Kids Hack Day Process Wiki
 
 [Home](index.md)
-[Events](/#!events)
+[Events]()
+
+* [Summer Camp 2014](events/summer-camp-2014.md)
+* [Falls Camp 2014](events/falls-camp-2014.md)
+
 [Meetings](/#!meetings)
 [Programs](/#!programs)
 [Templates](/#!templates)
