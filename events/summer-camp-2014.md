@@ -1,7 +1,64 @@
 # Kids Hack Day Summer Camp 2014
 
 ## Date and local
-The Kids Hack Day Summer Camp happened at Makers Park (Gamla Stan) during the days XX/XX/XXXX to XX/XX/XXXX and XX/XX/XXXX to XX/XX/XXXX. All the days from XX:XX to XX:XX.
+The Kids Hack Day Summer Camp happened at Makers Park (Gamla Stan) during the days 07/07/2014 to 11/07/2014 and 28/07/2014 to 01/08/2014. All the days from 9:00 to 15:00.
+
+## Agenda
+
+### Monday: 3D-printing and crafting
+9:00 – 9:15 Introduction to activities
+
+9:15 – 11:30 Strawbees and EggBot
+
+11:30 – 12:00 Lunch
+
+12:00 – 15:00 Minecraft and 3D-printing
+
+### Tuesday: Electronic and code
+9:00 – 9:15 Introduction to activities
+
+9:15 – 11:30 Soldering and program the robots
+
+11:30 – 12:00 Lunch
+
+12:00 – 15:00 Coding python in Minecraft
+
+### Wednesday: Development of kid's projects
+9:00 – 9:30 Define the project
+
+9:30 – 11:30 Free creation
+
+11:30 – 12:00 Lunch
+
+12:00 – 14:30 Free creation
+
+14:30 – 15:00 Presentat and discuss
+
+### Torsdag: Development of kid's projects
+9:00 – 9:30 Define the project
+
+9:30 – 11:30 Free creation
+
+11:30 – 12:00 Lunch
+
+12:00 – 14:30 Free creation
+
+14:30 – 15:00 Presentat and discuss
+
+### Fredag: Visit Tom Tits Experiment
+9:00 – 9:15 Meet at Makers Park
+
+9:15 – 10:00 Transport to Tom Tits
+
+10:00 – 11:30 World record in straw construction
+
+11:30 – 12:00 Lunch
+
+12:00 – 14:00 Free exploration
+
+14:00 – 14:15 Gathering
+
+14:15 – 15:00 Transport to Makerspark
 
 ## Activities
 
