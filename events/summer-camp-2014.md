@@ -197,7 +197,7 @@ http://instagram.com/p/qQ9GnOMJ1s/?modal=true
 http://instagram.com/p/qMFjTYsJx5/?modal=true
 
 
-## Inspiration
+## Reference
 
 #### Brushbots
 [Site](http://www.makershed.com/BrushBots_p/msbb.htm)
