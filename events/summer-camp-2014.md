@@ -138,8 +138,51 @@ Using Paulo's Quirkbot API.
 
 ### Robots created
 
+http://instagram.com/p/qLrdoAsJ9P/?modal=true
+
+http://instagram.com/p/qMGJ_tMJym/?modal=true
+
+http://instagram.com/p/qO0TfFsJ7x/?modal=true
+
+http://instagram.com/p/qRZJbuMJyQ/?modal=true
+
+http://instagram.com/p/rKjUZ8sJzj/?modal=true
+
+http://instagram.com/p/qMBZYyMJ9e/?modal=true
+
+
 ### Soldering station
 
-### Artwork
+http://instagram.com/p/qL_RJlsJ7r/?modal=true
 
-### Minecraft 3D Prints
+
+
+### Strawbees
+
+http://instagram.com/p/qJO8dKMJ_v/?modal=true
+
+http://instagram.com/p/qJQzDbMJw-/?modal=true
+
+
+
+### Wearables
+
+http://instagram.com/p/qMNUIGMJ7J/?modal=true
+
+http://instagram.com/p/qMQqX5sJ_U/?modal=true
+
+### Minecraft 
+
+http://instagram.com/p/qLo_mHMJ7S/?modal=true
+
+http://instagram.com/p/qMCIJcMJ9-/?modal=true
+
+### 3D Prints
+
+http://instagram.com/p/qLzrjaMJzA/?modal=true
+
+http://instagram.com/p/qQ9GnOMJ1s/?modal=true
+
+### Games
+
+http://instagram.com/p/qMFjTYsJx5/?modal=true
