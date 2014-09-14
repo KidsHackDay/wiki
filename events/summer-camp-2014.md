@@ -113,6 +113,89 @@ Using Paulo's Quirkbot API.
 1 x sonar
 1 x buzzer
 
+## Documentation
+
+### Robots created
+
+http://instagram.com/p/qLrdoAsJ9P/?modal=true
+
+http://instagram.com/p/qMGJ_tMJym/?modal=true
+
+http://instagram.com/p/qO0TfFsJ7x/?modal=true
+
+http://instagram.com/p/qRZJbuMJyQ/?modal=true
+
+http://instagram.com/p/rKjUZ8sJzj/?modal=true
+
+http://instagram.com/p/qMBZYyMJ9e/?modal=true
+
+http://instagram.com/p/qMDbiqsJ_p/?modal=true
+
+http://instagram.com/p/qMESGnMJwy/?modal=true
+
+http://instagram.com/p/qME6MDMJxS/?modal=true
+
+http://instagram.com/p/qMIfc4MJ1g/?modal=true
+
+http://instagram.com/p/qOU11SMJ-b/?modal=true
+
+http://instagram.com/p/qRawedMJ0b/?modal=true
+
+http://instagram.com/p/qTrLccsJ8q/?modal=true
+
+http://instagram.com/p/rRj0jxMJ9B/?modal=true
+
+http://instagram.com/p/rRksh1MJ-G/?modal=true
+
+### Soldering station
+
+http://instagram.com/p/qL_RJlsJ7r/?modal=true
+
+http://instagram.com/p/qMDurHMJwB/?modal=true
+
+http://instagram.com/p/qOWq9SMJwC/?modal=true
+
+
+### Strawbees
+
+http://instagram.com/p/qJO8dKMJ_v/?modal=true
+
+http://instagram.com/p/qJQzDbMJw-/?modal=true
+
+http://instagram.com/p/qOKn3xsJ2T/?modal=true
+
+http://instagram.com/p/qRdEhbMJ36/?modal=true
+
+http://instagram.com/p/qTe2GssJy0/?modal=true
+
+http://instagram.com/p/rRjYe1MJ8l/?modal=true
+
+http://instagram.com/p/rRkNjAsJ9p/?modal=true
+
+### Wearables
+
+http://instagram.com/p/qMNUIGMJ7J/?modal=true
+
+http://instagram.com/p/qMQqX5sJ_U/?modal=true
+
+http://instagram.com/p/qQ3b7BMJx_/?modal=true
+
+### Minecraft 
+
+http://instagram.com/p/qLo_mHMJ7S/?modal=true
+
+http://instagram.com/p/qMCIJcMJ9-/?modal=true
+
+### 3D Prints
+
+http://instagram.com/p/qLzrjaMJzA/?modal=true
+
+http://instagram.com/p/qQ9GnOMJ1s/?modal=true
+
+### Games
+
+http://instagram.com/p/qMFjTYsJx5/?modal=true
+
 
 ## Inspiration
 
@@ -133,56 +216,3 @@ Using Paulo's Quirkbot API.
 
 #### Monitor hack
 [](https://www.youtube.com/watch?v=zL_HAmWQTgA)
-
-## Documentation
-
-### Robots created
-
-http://instagram.com/p/qLrdoAsJ9P/?modal=true
-
-http://instagram.com/p/qMGJ_tMJym/?modal=true
-
-http://instagram.com/p/qO0TfFsJ7x/?modal=true
-
-http://instagram.com/p/qRZJbuMJyQ/?modal=true
-
-http://instagram.com/p/rKjUZ8sJzj/?modal=true
-
-http://instagram.com/p/qMBZYyMJ9e/?modal=true
-
-
-### Soldering station
-
-http://instagram.com/p/qL_RJlsJ7r/?modal=true
-
-
-
-### Strawbees
-
-http://instagram.com/p/qJO8dKMJ_v/?modal=true
-
-http://instagram.com/p/qJQzDbMJw-/?modal=true
-
-
-
-### Wearables
-
-http://instagram.com/p/qMNUIGMJ7J/?modal=true
-
-http://instagram.com/p/qMQqX5sJ_U/?modal=true
-
-### Minecraft 
-
-http://instagram.com/p/qLo_mHMJ7S/?modal=true
-
-http://instagram.com/p/qMCIJcMJ9-/?modal=true
-
-### 3D Prints
-
-http://instagram.com/p/qLzrjaMJzA/?modal=true
-
-http://instagram.com/p/qQ9GnOMJ1s/?modal=true
-
-### Games
-
-http://instagram.com/p/qMFjTYsJx5/?modal=true
