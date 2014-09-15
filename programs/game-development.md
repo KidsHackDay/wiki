@@ -56,3 +56,6 @@ Not only for development reports but to show off their code, screenshots and vid
 ### Youtube Channel
 
 A common behaviour for kids and gamers is to screencast. From how to do simple tasks, cool tricks and very complex procedures, people (and kids also) love to get recognized by what they do. At the same time, it's very common for kids (and also adults) to search youtube tutorials instead long and exhaustive texts, even with pictures. There is nothing bad on it, actually this is more a resource than a problem! Let's push kids to report and document their development in videos as much they learn from videos from other kids!
+
+------
+*[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/programs/game-development.md)*
