@@ -34,7 +34,7 @@ The Kids Hack Day Summer Camp happened at Makers Park (Gamla Stan) during the da
 
 14:30 – 15:00 Presentat and discuss
 
-### Torsdag: Development of kid's projects
+### Thursday: Development of kid's projects
 9:00 – 9:30 Define the project
 
 9:30 – 11:30 Free creation
@@ -45,7 +45,7 @@ The Kids Hack Day Summer Camp happened at Makers Park (Gamla Stan) during the da
 
 14:30 – 15:00 Presentat and discuss
 
-### Fredag: Visit Tom Tits Experiment
+### Friday: Visit Tom Tits Experiment
 9:00 – 9:15 Meet at Makers Park
 
 9:15 – 10:00 Transport to Tom Tits
