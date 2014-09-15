@@ -60,3 +60,6 @@ x	 	| Day 1		| Day 2		| Day 3
 ## Inspiration
 
 ## Documentation
+
+------
+*[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/events/falls-camp-2014.md)*
