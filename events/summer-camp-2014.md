@@ -218,3 +218,6 @@ http://www.instructables.com/id/A-Servo-based-4-legged-Walker/?ALLSTEPS
 
 #### Monitor hack
 [](https://www.youtube.com/watch?v=zL_HAmWQTgA)
+
+------
+*[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/events/summer-camp-2014.md)*
