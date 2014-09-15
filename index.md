@@ -3,12 +3,9 @@
 ## Events
 
 
-#### Occasional
+#### KHD Innovation Club
+* [Fall 2014](events/falls-camp-2014.md)
 * [Summer Camp 2014](events/summer-camp-2014.md)
-* [Falls Camp 2014](events/falls-camp-2014.md)
-
-#### Regular
-* [Kids Hack Day Club](events/khd-club.md)
 
 ## Meetings
 * [09-09-2014](meetings/09-09-2014.md)
