@@ -28,4 +28,4 @@ Boilerplates for documents in the previous categories.
 [Program](templates/program.md)
 
 ------
-*[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/index.md)
+*[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/index.md)*
