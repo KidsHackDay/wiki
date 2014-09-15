@@ -66,11 +66,6 @@ The Kids Hack Day Summer Camp happened at Makers Park (Gamla Stan) during the da
 
 * #### Build robots
 Servo motors, LEDs, piesobuzzers, Red Boards, jumper wires.
-Cool single servo robot
-http://hackaday.com/2009/10/30/single-servo-robot/
-2 servo insect like 
-http://www.instructables.com/id/simpleWalker-4-legged-2-servo-walking-robot/?ALLSTEPS
-http://www.instructables.com/id/A-Servo-based-4-legged-Walker/?ALLSTEPS
 
 * #### Program robots
 Using Paulo's Quirkbot API.
@@ -198,6 +193,13 @@ http://instagram.com/p/qMFjTYsJx5/?modal=true
 
 
 ## Reference
+
+#### Cool single servo robot
+http://hackaday.com/2009/10/30/single-servo-robot/
+
+#### 2 servo insect like 
+http://www.instructables.com/id/simpleWalker-4-legged-2-servo-walking-robot/?ALLSTEPS
+http://www.instructables.com/id/A-Servo-based-4-legged-Walker/?ALLSTEPS
 
 #### Brushbots
 [Site](http://www.makershed.com/BrushBots_p/msbb.htm)
