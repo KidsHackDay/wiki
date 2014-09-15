@@ -26,3 +26,6 @@ Boilerplates for documents in the previous categories.
 [Meeting](templates/meeting.md)
 [Event](templates/event.md)
 [Program](templates/program.md)
+
+------
+*[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/index.md)
