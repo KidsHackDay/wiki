@@ -32,6 +32,8 @@ Basically Minecraft already provide controls, inventary, world rules, life manag
 
 Minecraft provide officially a Python API for their PI Edition, which runs only on Raspberry Pi. Also from past experiences, we noticed kids got frustrated by not being able to continue their learning experience at home and keep coding. This breaks totally the learning proccess. With a Bukkit server setup and a plugin called Raspberry Juice we'll provide them a way to keep developing their code and ideas at home with their natural environment.
 
+[Kids Hack Day Minecraft Mini Game Engine](https://github.com/KidsHackDay/minecraft)
+
 ## Method
 
 ### Innovation Club
