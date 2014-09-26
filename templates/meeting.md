@@ -28,3 +28,6 @@ Discussion about topic #3
 * Jack
 * Jane
 * Jean
+
+------
+*[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/templates/meeting.md)*
