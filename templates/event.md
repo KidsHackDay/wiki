@@ -56,3 +56,6 @@ On this activity there will be a description of what's about and some [Important
 
 #### Monitor hack
 [](https://www.youtube.com/watch?v=zL_HAmWQTgA)
+
+------
+*[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/templates/event.md)*
