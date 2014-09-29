@@ -39,7 +39,7 @@ Minecraft provide officially a Python API for their PI Edition, which runs only 
 	- Turtle (instruction to blind)
 	- Shapes
 	- Variables
-	- + - * / =
+	- Symbols "+ - * / ="
 	- If statement
 	- For loops
 	- Methods and functions
