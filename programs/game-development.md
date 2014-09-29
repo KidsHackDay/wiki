@@ -9,8 +9,6 @@ The language to be used is Python and the core engine will be the Minecraft Pi E
 This program will make use of mini-games inside Minecraft to develop their knowledge and perception
 of code and game mechanics.
 
-## Scope
-
 We want the kids to learn:
 
 - Basic code structures: Variables, flow, iteration and methods
@@ -34,20 +32,49 @@ Minecraft provide officially a Python API for their PI Edition, which runs only 
 
 [Kids Hack Day Minecraft Mini Game Engine](https://github.com/KidsHackDay/minecraft)
 
-## Method
+## Program
 
-### Innovation Club
+- Drawing with code
+	- Coordinate system (lego and squared notebook)
+	- Turtle (instruction to blind)
+	- Shapes
+	- Variables
+	- + - * / =
+	- If statement
+	- For loops
+	- Methods and functions
+	- Min max range len
+- Interaction
+	- Get closer
+	- Sword right click
+- Game mechanics
+	- bounce
+	- Random
+	- Time
+	- controls
+	- Score
+	- Win/Game over
+- Read and write files
+- Build an inerface
+- Control arduino with minecraft
 
-Once a week a group of 10 kids will participate of a small class with the following structure:
+## Minecraft Academy
 
+Once a week a group of untill 10 kids will participate of a small class with the following structure:
+
+- What kids discovered/done?
 - Concept introduction
-- Demo and play
+- Demo/3 challenges
+- Class contract (?)
 - Development
 - Documentation
+- Ask what should be the next concept or spoil it
 
 This isn't a strict structure nor order but a suggestion. Kids can jump or change the order except by the documentation exercice which is the main focus of this classes. Their programming skill and concepts will evolve mostly not in this classes but by trying and failing in their natural environments. They won't go out from the classes with knoledge but with memories of what the monitor said and what they did. Knowledge and learning will come by repetition and free exploration by themselves.
 
 What is the focus on the classes are they get introduced, inspired and take questions. But we'll focus specially learn how to document their progress and research from other people's development progress reports and the main channel can be Wikis and Youtube videos.
+
+## Community channels
 
 ### Wiki
 
@@ -58,6 +85,16 @@ Not only for development reports but to show off their code, screenshots and vid
 ### Youtube Channel
 
 A common behaviour for kids and gamers is to screencast. From how to do simple tasks, cool tricks and very complex procedures, people (and kids also) love to get recognized by what they do. At the same time, it's very common for kids (and also adults) to search youtube tutorials instead long and exhaustive texts, even with pictures. There is nothing bad on it, actually this is more a resource than a problem! Let's push kids to report and document their development in videos as much they learn from videos from other kids!
+
+For example:
+
+[](http://youtu.be/8FnyP4N392U?list=UUBM7RVMhloTZ-z8rPNLP0JQ)
+
+[](http://youtu.be/ewxxpT1Urd0?list=UUBM7RVMhloTZ-z8rPNLP0JQ)
+
+[](http://youtu.be/Z_LvZcBOZlg?list=UUBM7RVMhloTZ-z8rPNLP0JQ)
+
+[](http://youtu.be/8vaSNUhJ4vY?list=UUBM7RVMhloTZ-z8rPNLP0JQ)
 
 ------
 *[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/programs/game-development.md)*
