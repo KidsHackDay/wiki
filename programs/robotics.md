@@ -3,13 +3,24 @@
 ##Projects to build
 
 
-###Simple
+###Balancing robots
+
+####Simple
 
  - [Pendulum](http://letsmakerobots.com/robot/project/attiny85-light-seeker-balancing-robot)
+ - [Balancing Bird](https://www.youtube.com/watch?v=POsnqP_Ir70)
+ - [Gyroscope](https://www.youtube.com/watch?v=NsBnBMIeXeo)
 
-###Advanced
+####Advanced
 
  - [Inverted pendulum](http://www.instructables.com/id/A-Simple-and-Very-Easy-Inverted-Pendulum-Balancing/)
+ 
+### Paper Mechanincs / Tentacle
+
+
+### Magnetic
+
+### Walking
 
 
 ------
