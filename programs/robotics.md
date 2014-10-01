@@ -16,11 +16,15 @@
  - [Inverted pendulum](http://www.instructables.com/id/A-Simple-and-Very-Easy-Inverted-Pendulum-Balancing/)
 
 ### Wheels
+ - Make a solid 2 motor structure
  - Light Seeking
  
 ### Paper Mechanincs / Tentacle
+ - Create basic templates for geometric shapes
 
 ### Walking
+ - Two servor
+ - Use Strawebees triangle for structure
 
 ### Light
 
