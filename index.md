@@ -8,6 +8,7 @@
 * [Summer Camp 2014](events/summer-camp-2014.md)
 
 ## Meetings
+* [08-10-2014](meetings/08-10-2014.md)
 * [29-09-2014](meetings/29-09-2014.md)
 * [09-09-2014](meetings/09-09-2014.md)
 
