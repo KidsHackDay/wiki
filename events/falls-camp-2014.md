@@ -1,5 +1,7 @@
 # Kids Hack Day Fall Camp 2014
 
+## Overview
+
 Kids Hack Day is a global community of kids from all parts of the world building and programming things, hacking their toys and inventing things. Now this is called the Kids Hack Day Innovation Club. Right now there is one more Innovation Club in the world and this is in Bogotá in Colombia. The Innovation Club is a place you can go to if you want to explore and do cool things with technology. At the Innovation Club we like to take things apart, understand how they work and change them to do something different. We like to create computer games, build robots and build cool costumes that can blink in different colors. 
 
 This second semester of Kids Hack Day Innovation Club is a bit different from KHD Summer Camp: It's longer and with smaller groups of kids divided in 4 days of week.
