@@ -1,63 +1,47 @@
-# Kids Hack Day Falls Camp 2014
+# Kids Hack Day Fall Camp 2014
+
+Kids Hack Day is a global community of kids from all parts of the world building and programming things, hacking their toys and inventing things. Now this is called the Kids Hack Day Innovation Club. Right now there is one more Innovation Club in the world and this is in Bogotá in Colombia. The Innovation Club is a place you can go to if you want to explore and do cool things with technology. At the Innovation Club we like to take things apart, understand how they work and change them to do something different. We like to create computer games, build robots and build cool costumes that can blink in different colors. 
+
+This second semester of Kids Hack Day Innovation Club is a bit different from KHD Summer Camp: It's longer and with smaller groups of kids divided in 4 days of week.
+
 
 ## Date and local
-We don't know yet date and venue.
+We have 4 groups coming each one on Mondays, Tuesdays, Wednesdays from 3:30pm to 6:30pm and 2:00pm to 5:00pm on Sundays.
 
 ## Agenda
-x	 	| Day 1		| Day 2		| Day 3 
----	 	| -----		| -----		| -----
-10:00	|			|			|			
-11:00	|			|			|			
-12:00	|			|			|			
-13:00	|			|			|			
-14:00	|			|			|			
-15:00	|			|			|			
-16:00	|			|			|			
 
-## Activities
+### Week #1: Inspiration
 
-### Primary Activities
+Energizer: The big machine
 
-* #### Robots
-* #### Wearables
-* #### Game development
+Ask kids what are their expactations and for that already been at innovation explain what is about.
 
+Talk about what we are and our programs
+- This is not a school
+- They can work on their own invention
+- Show videos and pictures from other cities
+- Exibition of inspirational robots
 
-### Secondary Activities
+Talk about open source and create githubs account for each kid to add them on KHD kids organization
 
-* #### Digital Fabrication
-* #### MaKey MaKey
+Concept introduction: How to turn on a LED!
 
-### Thirdary Activities
+Free exploration
+Fiber optics
+Strawbees
 
-* #### Strawbees
-* #### Makey Makey games
-* #### Doodle3D
-* #### EggBot
+Ask them to bring and think about halloween stuff
 
+### Week #2 (Wearables and Halloween)
 
-## Materials
-* Makey Makey
-* KHD Robot kit
-* Raspberry Pi / Kano
-* Monitors
-* Crafts material (TGR) + card board + BBQ sticks + duct tape + metal wire
-* Straws
-* Ask kids for broken toys
-* Toothbrushes (IKEA)
-* Tools (Scissors, screwdrivers)
+Energizer: ?
 
-### KHD Robot kit
+Concept introduction: Color and light
 
-1 x 4 -12 Megaohm resistor, 
-1 x 200ohm resistor for LED (or something similar)
-2 x LED (or one and two holes in the head)
-1 x LDR 
-1 x miniservo
-1 x sonar
-1 x buzzer
-
-## Inspiration
+Free exploration
+Interactive Pumpkim
+Draw pumpink on Minecraft
+Costumes
 
 ## Documentation
 

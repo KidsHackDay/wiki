@@ -45,17 +45,4 @@ On this activity there will be a description of what's about and some [Important
 #### Drawdio
 [](https://www.youtube.com/watch?v=Qmp-Qi7-ltY)
 
-#### Lol shield
-[](https://www.youtube.com/watch?v=FVRrOtP1Dvk)
-
-#### Servo robot
-[](https://www.youtube.com/watch?v=DWSbFfW3lC4)
-
-#### Heartbeat pendant
-[](https://www.youtube.com/watch?v=QTFiRFCth1Y)
-
-#### Monitor hack
-[](https://www.youtube.com/watch?v=zL_HAmWQTgA)
-
-------
 *[Edit this page](https://github.com/KidsHackDay/wiki/edit/gh-pages/templates/event.md)*
