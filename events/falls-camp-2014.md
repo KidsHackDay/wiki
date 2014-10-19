@@ -45,8 +45,6 @@ Interactive Pumpkim
 Draw pumpink on Minecraft
 Costumes
 
-## Photos and videos of kids
-
 
 ## Inspiration
 ### Energizer ideas
