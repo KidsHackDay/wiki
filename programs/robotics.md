@@ -5,6 +5,8 @@ Let's make robots! The Kids Hack Day robotics program will help you build your r
 ##Codebender
 [Codebender](https://codebender.cc/static/about) is an awesome tool that let's you program an Arduino (or any Arduino compatible board) directly from the browser. You won't need to isntall any programs and will be up-and-running in minutes! [Sign up](https://codebender.cc/register/) now and get started.
 
+<iframe style="height: 510px; width: 100%; margin: 10px 0 10px;" allowTransparency="true" src="https://codebender.cc/embed/sketch:55962" frameborder="0"></iframe>
+
 ##Quirkbot
 Quirkbot is our very own developement-board/toy-to-make-toys/maker-companion. It's brain works just like an Arduino, but it has a quirky body, that will let you controll it and connect it to crazy [Strawbees](http://www.strawbees.com) structures.
 
