@@ -10,7 +10,7 @@ Quirkbot is our very own developement-board/toy-to-make-toys/maker-companion. It
 
 One of the many special things about the Quirkbot is how you program it. We created a special programming language (well, its more like a "style") that can be at the same time textual (like normal Arduino code) or visual (you program by dragging and dropping blocks and connecting them with lines). In that way it's easier to understand the logic without getting stuck with the syntax. For some people, programming visually will be easier, but for others the textual will fill more appropriate, the key is that it is flexible and will work for everyone.
 
-At this moment, this programming language is in alpha stage (it's still very early on). There are still lot's of things to be done, but it is already usable, specially when combined with Codebender. [Try it now](http://quirkbot.herokuapp.com).
+At this moment, this programming language is in alpha stage (it's still very early on). There are still lot's of things to be done, but it is already usable, specially when combined with Codebender. [Try it now!](http://quirkbot.herokuapp.com).
 
 ------------------------------------
 ##Robots Ideas
