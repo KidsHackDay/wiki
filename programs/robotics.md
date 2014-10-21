@@ -1,7 +1,13 @@
 #Robotics
+Let's make robots! The Kids Hack Day robotics program will help you build your robotic creatures. We will learn how to build their mechanical parts, how to program them and how to make them look cool!
 
-##Projects to build
+##Codebender
+Codebender is an awesome tool that let's you program an Arduino (or any Arduino compatible board) directly from the browser. You won't need to isntall any programs and will be up-and-running in minutes!
 
+##Quirkbot
+
+
+##Robots Ideas
 
 ###Balancing robots
 
