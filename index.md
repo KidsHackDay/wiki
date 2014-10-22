@@ -1,7 +1,7 @@
-[ ![](/media/khdoslo.png) ](oslo)
-[ ![](/media/khdamsterdan.png) ](amsterdan)
+[ ![](media/khdoslo.png) ](oslo)
+[ ![](media/khdamsterdan.png) ](amsterdan)
 
-[ ![](/media/khdmoscow.png) ](moscow)
-[ ![](/media/khdsidney.png) ](sydney)
+[ ![](media/khdmoscow.png) ](moscow)
+[ ![](media/khdsidney.png) ](sydney)
 
-[ ![](/media/khdstockholm.jpg) ](stockholm)
+[ ![](media/khdstockholm.jpg) ](stockholm)
