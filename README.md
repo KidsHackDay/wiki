@@ -18,7 +18,7 @@ After that it should be as simple as click on "Edit this page" at the bottom of 
 
 You don't need to follow any pattern, any structure or model. Feel free to use what is the best for you. What we offer on template is a way to start if you have no idea how.
 
-## What are all this #, ##, **, []() and so?
+## What are all this #, ##, ** and so?
 
 All our files are written in Markdown language. You can learn basics [here](http://en.wikipedia.org/wiki/Markdown). If you want to live visualize what are you writting, check out [StackEdit](https://stackedit.io/).
 
