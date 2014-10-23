@@ -2,11 +2,12 @@
 
 ## How can I edit one page?
 
-1. You'll need a github account. 
-2. Mail murilo@kidshackday.com with your github username. 
-3. Wait until we add you in KHD organization.
-
-After that it should be as simple as click on "Edit this page" at the bottom of the page. You'll be redirected to a github text editor.
+1. Enter the page you want to edit.
+2. Click "edit this page" on the footer.
+3. Connect or create a github account.
+4. Make your changes and submit it.
+    1. Commit your changes
+    2. Submit pull request
 
 ## How can I add my event here?
 
@@ -17,6 +18,10 @@ After that it should be as simple as click on "Edit this page" at the bottom of 
 5. Edit the fake information and fill it with your documentation
 
 You don't need to follow any pattern, any structure or model. Feel free to use what is the best for you. What we offer on template is a way to start if you have no idea how.
+
+## How can I ask someone to add or edit something on this wiki?
+
+You don't ask, you do. Follow the instructions above.
 
 ## What are all this #, ##, ** and so?
 
@@ -30,6 +35,15 @@ Edit the file `navigation.md` in the root of your site folder.
 
 It's automatically generated listing the titles with `##`.
 
-## How can I upload a foto, put a youtube video or whatever?
+## How can I make a link?
+
+`[external link text](http://yoursite.org)`
+`[internal link text](folder/file.md)`
+
+## How can I create a image?
+
+`![](http://yoursite.org/image.jpg)`
+
+## How can I put a youtube video, google maps, table or whatever?
 
 This wiki is powered with MdWiki. All about how to do anything is written on [their documentation](http://dynalon.github.io/mdwiki/#!quickstart.md).
