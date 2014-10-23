@@ -1,3 +1,3 @@
 # KHD Process wiki
 
-* [Help](README.md)
+[Help](README.md)
