@@ -1,4 +1,4 @@
-# Kids Hack Fay Process Wiki
+# Kids Hack Day Process Wiki
 
 [ ![](media/khdoslo.png) ](oslo)
 [ ![](media/khdamsterdan.png) ](amsterdan)
