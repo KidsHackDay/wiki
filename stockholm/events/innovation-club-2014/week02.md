@@ -32,4 +32,8 @@ Some of the kids were really really helpful handling this situation but we need 
 - Speak and read english.
 - Bring their own computer or share someone's computer.
 
+Anyway they manage to play around with the functions `box()`, `up()`, `fwd()`, etc as well as with the function `times()`. It was a nice ice breaker.
+
+[](http://kidshackday.github.io/wiki/stockholm/#!events/innovation-club-2014/index.md)
+
 The soldering workshop aparently went well and kids got fun.
