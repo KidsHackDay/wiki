@@ -36,7 +36,7 @@ Ask them to bring and think about halloween stuff
 
 ### Week #2 (Wearables and Halloween)
 
-Energizer: ?
+Energizer: The "stand-in-circle-and-hit-ball-between-legs-game"
 
 Concept introduction: Color and light
 
@@ -54,6 +54,8 @@ The monday group like to do a bit of everything. Tobias was at summercamp. Last 
 ### Tuesday
 
 This is the girls group, Vivi and Moa are quite in to leds and optic fiber. Andrea, Leia and Maliqua had fun building a pumpkin tentacle and learning how to use the arduino. They did a scientific experiment with the led to se up to what speed the human eye can perceive a blink. There conclusion was that the limit was at 10 milliseconds and they compared the result with an scientific article online. 
+
+Vivi and Leia also learned how to make a light saber module with a switch made out of Strawbees. Tutorial for this will be posted soon...
 
 ### Wedneysday
 
