@@ -3,16 +3,16 @@
 [Home](index.md)
 [Events]()
 
+* [Innovation Club 2014](events/innovation-club-2014/index.md)
 * [Summer Camp 2014](events/summer-camp-2014.md)
-* [Falls Camp 2014](events/falls-camp-2014.md)
 
 [Programs]()()
 
 * [Robotics](programs/robotics.md)
+* [Game Development](programs/game-development.md)
 * [Wearables](programs/wearables.md)
 * [Digital Fabrication](programs/digital-fabrication.md)
-* [Game Development](programs/game-development.md)
 
 [gimmick:theme (inverse: false)](united)
 
-[gimmick:ThemeChooser](Change theme)
+<!-- [gimmick:ThemeChooser](Change theme) -->
