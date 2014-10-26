@@ -4,7 +4,7 @@
 
 
 #### KHD Innovation Club
-* [Innovation Club 2014](events/innovation-club-2014)
+* [Innovation Club 2014](events/innovation-club-2014/index.md)
 * [Summer Camp 2014](events/summer-camp-2014.md)
 
 ## Meetings
