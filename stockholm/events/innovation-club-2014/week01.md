@@ -26,17 +26,17 @@ Ask them to bring and think about halloween stuff
 
 ### Monday 
 
-The monday group like to do a bit of everything. Tobias was at summercamp. Last time they all built tentacles and tried to program a led and servomotor with the arduino. They all seemed happy about it except Alexandra who didn’t want to do anything and eventually will try the sunday group. 
+The monday group like to do a bit of everything. Tobias was at summercamp. Last time they all built tentacles and tried to program a led and servomotor with the arduino. They all seemed happy about it except one who didn’t want to do anything and eventually will try the sunday group. 
 
 ### Tuesday
 
-This is the girls group, Vivi and Moa are quite in to leds and optic fiber. Andrea, Leia and Maliqua had fun building a pumpkin tentacle and learning how to use the arduino. They did a scientific experiment with the led to se up to what speed the human eye can perceive a blink. There conclusion was that the limit was at 10 milliseconds and they compared the result with an scientific article online. 
+This is the girls group, some are quite in to leds and optic fiber. They built had fun building a pumpkin tentacle and learning how to use the arduino. They did a scientific experiment with the led to se up to what speed the human eye can perceive a blink. There conclusion was that the limit was at 10 milliseconds and they compared the result with an scientific article online. 
 
 Vivi and Leia also learned how to make a light saber module with a switch made out of Strawbees. Tutorial for this will be posted soon...
 
 ### Wedneysday
 
--Victor Nordlinder (takes a programming course as well: knows scratch. lite java, lite dot, lite javascript , ganska mycket html, 
+-Victor  (takes a programming course as well: knows scratch. lite java, lite dot, lite javascript , ganska mycket html, 
 
 This group is ambitious and full of ideas : they want to program. A canon shooting soap-bubbles, skiing-robot championship in november, do a walking robot that senses walls and turns around close to them. 
 
