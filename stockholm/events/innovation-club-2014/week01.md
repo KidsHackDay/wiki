@@ -47,7 +47,6 @@ Oliver wants to know how to become a nerd.
 ### Sunday
 A lot of kids are new to making things, most of the kids had ideas for robots. And some are really into programming ( they know scratch). 
 
-Daniil doesn’t hear and don’t like to use his hearing-apparatus, he reads lips instead so you have to make sure that he looks at you when you speak to him. 
 
 Aldin has quite advanced robot-ideas (his father is a mechatronics-engineer). 
 
