@@ -15,3 +15,4 @@ We have 4 groups coming each one on Mondays, Tuesdays, Wednesdays from 3:30pm to
 * [Week #1: Inspiration](week01.md)
 * [Week #2: Halloween](week02.md)
 * [Week #3](week03.md)
+* [Week #4](week04.md)
