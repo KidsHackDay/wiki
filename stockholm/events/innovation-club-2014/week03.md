@@ -35,7 +35,7 @@ Also good to know: It is managable for 1 person to keep the first part alone, we
 Build the buttons for Reach For Change hackathon
 
 ### Report
-Only to kids could come (the rest where away on vacation). We dedicated the time to get started with some basics in programming. We also did a cryptology game and the girls named there group "the bubble hackers". Vivi warned us that she will become so good at programming so she can hack into our computers. I encouraged her to aim for that :) 
+Only two kids could come (the rest where away on vacation). We dedicated the time to get started with some basics in programming. We also did a cryptology game and the girls named there group "the bubble hackers". Vivi warned us that she will become so good at programming so she can hack into our computers. I encouraged her to aim for that :) 
 ?
 
 ## Wednesday
