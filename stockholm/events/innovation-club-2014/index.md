@@ -14,5 +14,11 @@ We have 4 groups coming each one on Mondays, Tuesdays, Wednesdays from 3:30pm to
 
 * [Week #1: Inspiration](week01.md)
 * [Week #2: Halloween](week02.md)
-* [Week #3](week03.md)
-* [Week #4](week04.md)
+* [Week #3:](week03.md)
+* [Week #4:](week04.md)
+* [Week #5: from Nov 9th](week05.md)
+* [Week #6: from Nov 16th](week06.md)
+* [Week #7: from Nov 23th](week07.md)
+* [Week #8: from Nov 30th](week08.md)
+* [Week #9: from Dec 7th](week09.md)
+* [Week #10: from Dec 14th](week10.md)
