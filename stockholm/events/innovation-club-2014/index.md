@@ -10,7 +10,7 @@ This second semester of Kids Hack Day Innovation Club is a bit different from KH
 ## Date and local
 We have 4 groups coming each one on Mondays, Tuesdays, Wednesdays from 3:30pm to 6:30pm and 2:00pm to 5:00pm on Sundays.
 
-## Agenda
+## Agenda & Volunteers avaiability
 
 * [Week #1: Inspiration](week01.md)
 * [Week #2: Halloween](week02.md)
