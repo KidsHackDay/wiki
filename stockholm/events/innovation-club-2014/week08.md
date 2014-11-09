@@ -1,27 +1,26 @@
 # Week #8
 
 ## Monday
-````Dec 1st````
+````Dec 8th````
 ### Volunteers
 * Marzieh
-* Simon (arrives at least 1 hour later)
+* Simon
 * Isabella
 
 ## Tuesday
-````Dec 2nd````
+````Dec 9th````
 ### Volunteers
 * Isabella
 * Viktoria
 
 ## Wednesday
-````Dec 3rd````
+````Dec 10th````
 ### Volunteers
 * Simon
 * Paulo
 * Murilo
 
 ## Sunday
-````Dec 7th````
+````Dec 14th````
 ### Volunteers
-* Isabella
-* Viktoria
+?????????
