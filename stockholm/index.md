@@ -8,6 +8,7 @@
 * [Summer Camp 2014](events/summer-camp-2014.md)
 
 ## Meetings
+* [10-02-2015](meetings/10-02-2015.md)
 * [03-02-2015](meetings/03-02-2015.md)
 * [27-01-2015 - Isabella's party](meetings/27-01-2015.md)
 * [26-10-2014 - sunday recap](meetings/26-10-2014.md)
