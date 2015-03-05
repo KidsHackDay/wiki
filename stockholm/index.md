@@ -1,8 +1,5 @@
 # Home
 
-##Calendar
-<iframe src="https://www.google.com/calendar/embed?src=r3vbqfljk98a1470eb546efs0s%40group.calendar.google.com&ctz=Europe/Stockholm" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## Events
 
 
