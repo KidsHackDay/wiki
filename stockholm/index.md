@@ -1,6 +1,11 @@
 # Home
 
+## Calendar
+
+<iframe src="https://www.google.com/calendar/embed?src=r3vbqfljk98a1470eb546efs0s%40group.calendar.google.com&ctz=Europe/Stockholm" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Meetings
+
 * [10-03-2015](meetings/10-03-2015.md)
 * [03-03-2015](meetings/03-03-2015.md)
 * [17-02-2015](meetings/17-02-2015.md)
@@ -12,8 +17,6 @@
 * [29-09-2014](meetings/29-09-2014.md)
 * [09-09-2014](meetings/09-09-2014.md)
 
-## Calendar
-<iframe src="https://www.google.com/calendar/embed?src=r3vbqfljk98a1470eb546efs0s%40group.calendar.google.com&ctz=Europe/Stockholm" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Templates
 
