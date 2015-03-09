@@ -11,6 +11,7 @@
 * [Summer Camp 2014](events/summer-camp-2014.md)
 
 ## Meetings
+* [03-03-2015](meetings/03-03-2015.md)
 * [17-02-2015](meetings/17-02-2015.md)
 * [10-02-2015](meetings/10-02-2015.md)
 * [03-02-2015](meetings/03-02-2015.md)
