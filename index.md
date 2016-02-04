@@ -13,11 +13,11 @@ Kids Hack Day is an entirely free-to-attend and volunteer-organized event, creat
 
 [](https://youtu.be/16P-ULdzJko)
 
-1 - Assemble your co-organizing team.
+* Assemble your co-organizing team.
 
 This could be a couple friends, or a number of people who represent different communities in your area (e.g. a hacker, a maker, an artist, an education enthusiast). When you begin planning, make sure to delegate different tasks to different people so that each person can help make progress along the way. Be sure to add your city and contact details to the Kids Hack Day wiki.
 
-2 - Lock down a venue and a date.
+* Lock down a venue and a date.
 
 This is the most vital step into making your event happen. Once you have a venue and a date, it’s easier to find sponsors, get plans in place, keep helpers motivated and iron out the logistics. Remember that you’re looking for a venue that is willing to donate their space for free (in exchange for top sponsorship). I’ve found that offices you or your friends work at are typically the best places to begin asking around – they’re usually shut down on weekends, they already have chairs/wifi, and are happy to welcome events that value collaboration between different types of people.
 
