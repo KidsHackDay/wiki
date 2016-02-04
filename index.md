@@ -1,11 +1,13 @@
 # Kids Hack Day Wiki
 
-What is a Kids Hack Day
+**What is a Kids Hack Day**
+
+[](https://youtu.be/b1HVOq7mLeQ)
 
 
+**How to organize a Kids Hack Day in your city**
 
-How to organize a Kids Hack Day in your city
-
+[](https://youtu.be/16P-ULdzJko)
 
 Kids Hack Day is an entirely free-to-attend and volunteer-organized event, created by and for the community.
 
