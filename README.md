@@ -1,5 +1,9 @@
 # Readme
 
+**IMPORTANT**
+This wiki is no longer in use and we are only keeping it for history. Please use the [kidshackday.org wiki](https://github.com/KidsHackDay/kidshackday.org/wiki) instead!
+==========================
+
 ## How can I edit one page?
 
 1. Enter the page you want to edit.
